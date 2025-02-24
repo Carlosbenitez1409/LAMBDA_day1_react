@@ -1,0 +1,15 @@
+.bienvenida {
+    position: absolute;
+    top: 7px;
+    right: 10px;
+    background-color: #4c8baf;
+    color: white;
+    padding: 7px 7px;
+    border-radius: 10px;
+    font-size: 1.5rem;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);
+}
+
+.bienvenida:hover {
+    transform: scale(1.05);
+}
